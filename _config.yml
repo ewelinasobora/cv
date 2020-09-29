@@ -1,0 +1,58 @@
+# Site
+repository: ewelinasobora/ewelina_sobora_cv
+favicon: images/favicon.ico
+
+# Personal info
+name: Ewelina Sobora
+title: Ruby/Ruby on Rails Developer
+email: e@e-dot.uk
+
+# Social links
+twitter_username: exwxexl
+github_username:  ewelinasobora
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+
+linkedin_username: ewelina-sobora
+# pinterest_username: jekyll
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpeg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Ewelina and I'm a Ruby/Ruby on Rails Developer.
+  I have always had a passion for logic and the processes that can be extracted, utilised and applied in bringing creative thought to life. This started on my journey studying and completing BSc Math & Economics along with International Relations in my hometown in Poland. During my time at university I was introduced to coding and instantly felt an affinity with the medium as it allowed me to express and create my ideas. I made the decision to pursue my biggest ambitions in London and moved shortly after my education was complete. Committed to continuously learning and developing my skills I am continuing my journey with an ever-evolving foundation.
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in automation and software engineering some of my other interests and hobbies are:
+   - Brewing beer
+   - Gaming #PS4
+   - Cooking
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+darkmode: true
+
+plugins:
+ - jekyll-seo-tag
