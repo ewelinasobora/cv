@@ -4,13 +4,13 @@
   job_title: Developer In Test
   dates: May 2019 - Present
   description: | # this will include new lines to allow paragraphs
-    As a Developer in Test. I'm working in ROTA. I spend one week on developing new features and fixing bugs and the other week on building automated end to end tests to ensure a high standard of our services. In both roles, I use a methodological approach. When I joined Big Sofa Technologies I’ve introduced to a ShapeUp (invented by Basecamp creators) which is followed by the product development team and a risk analysis chart based on which test planning takes place. Technology Stack, I use daily includes Ruby/Ruby on Rails, RSpec, MySQL, AWS, CircleCi , ElasticSearch, Docker, Neo4j, NodeJS/Testcafe .
+    As a Developer in Test. I'm working in ROTA. I spend one week on developing new features and fixing bugs and the other week on building automated end to end tests to ensure a high standard of our services. In both roles, I use a methodological approach. When I joined Big Sofa Technologies I’ve introduced tech and product teams to a ShapeUp (invented by Basecamp creators) which is followed by the product development team and a risk analysis chart based on which test planning takes place. Technology Stack, I use daily includes Ruby/Ruby on Rails, RSpec, MySQL, AWS, CircleCi , ElasticSearch, Docker, Neo4j, NodeJS/Testcafe .
 
 - layout: left
   company: Amigo Partnership
   link: amigopartnership.com
   job_title: Backend Developer
-  dates: August 2019 - October 2018
+  dates: August 2017 - October 2018
   description: | # this will include new lines to allow paragraphs
     My primary roles involved the development of a bespoke a platform enabling the integrated delivery of a suite of apps to produce an API utilised by a CMS to manage front-end applications. Working in a team to build REST and GraphQL API applications and testing with TDD RSpec for a range of companies, including Rolls Royce and O2 . Projects supported many features of OS. I specialised in Rails 5 , REST and GraphQL API , RSpec, JWT, PostgreSQL, Heroku, AWS and Docker .
 
