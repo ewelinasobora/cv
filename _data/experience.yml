@@ -4,7 +4,7 @@
   job_title: BackEnd Developer
   dates: October 2021 - September 2022
   description: | # this will include new lines to allow paragraphs
-    As a BackEnd Developer I contribute to development of high quality technology by maintaining and improving microservice architecture systems. Technologies I use include: Ruby on Rails, JavaScript, Relational (MySQL, PostgreSQL), NonRelational (MongoDB, DynamoDB), Graph Database (Neo4j), which brings the familarity of the SQL and Cypher query languages, Sidekiq, Redis, Apache Kafka, Elasticsearch, AWS services, Docker.
+    In my capacity as a BackEnd Developer, I have made significant contributions towards the development of cutting-edge technology. My primary responsibilities have included maintaining and improving microservice architecture systems, thereby ensuring that the final product is of the highest possible quality. To achieve this, I have harnessed a range of advanced technologies, including Ruby on Rails, JavaScript, Relational (MySQL, PostgreSQL), Non-Relational (MongoDB, DynamoDB), Graph Database (Neo4j)  as well as Sidekiq, Redis, Apache Kafka, Elasticsearch, AWS services and Docker. By leveraging these tools and technologies, I have been able to deliver efficient, scalable and reliable systems that meet the needs of our clients.
 
 - layout: left
   company: Big Sofa Technologies
@@ -12,7 +12,7 @@
   job_title: Developer In Test
   dates: May 2019 - October 2021
   description: | # this will include new lines to allow paragraphs
-    As a Developer in Test I worked in ROTA. I spent one week on developing new features and fixing bugs and the other week on building automated end to end tests to ensure a high standard of our services. In both roles, I use a methodological approach. When I joined Big Sofa Technologies I’ve introduced tech and product teams to a ShapeUp (invented by Basecamp creators) which is followed by the product development team and a risk analysis chart based on which test planning takes place. Technology Stack, I use daily, includes Ruby/Ruby on Rails, RSpec, MySQL, AWS, CircleCi , ElasticSearch, Docker, Neo4j, NodeJS/Testcafe .
+    As a Developer in Test, I was responsible for developing new features, fixing bugs, and building automated end-to-end tests of the core functionalities of the platform from the ground up that ensured our services met the highest standards. Throughout my tenure, I adopted a meticulous and systematic approach to all my tasks, which helped me achieve remarkable results. Upon joining Big Sofa Technologies, I took the initiative to introduce the tech and product teams to ShapeUp - an innovative product development approach invented by Basecamp creators. Additionally, I introduced a risk analysis chart, which played a crucial role in facilitating test planning. To accomplish these tasks, I leveraged a diverse technology stack, which included Ruby/Ruby on Rails, RSpec, MySQL, AWS, CircleCI, ElasticSearch, Docker, Neo4j, and NodeJS/Testcafe. Through my proficiency in these tools, I was able to build efficient and scalable systems that were essential in achieving our organizational goals.
 
 - layout: left
   company: Amigo Partnership
@@ -28,4 +28,4 @@
   job_title: QA Software Engineer
   dates: July 2015 - February 2017
   description: | # this will include new lines to allow paragraphs
-    Software Testing of Client/Server, Web and Mobile based Applications, Well-versed with all stages of software development and testing life cycle. My daily routine was checking various versions of SME Appliance prepared for iOS - Windows, Mac, Linux. Implementing and updating the Agile Test Strategy.
+    As a QA Engineer, I demonstrated expertise in testing both Web and Mobile-based Applications, with a deep understanding of all stages of the software development and testing life cycle. My daily responsibilities included testing various versions of the SME Appliance prepared for iOS, Windows, Mac, and Linux, ensuring that all features and functionalities met the highest quality standards. In addition, I was responsible for implementing and updating the Agile Test Strategy, which involved collaborating closely with the development team and other stakeholders to ensure that testing was integrated seamlessly into the software development process. Through my expertise and meticulous attention to detail, I was able to create a robust and efficient testing process that ensured the highest levels of quality and performance for our applications.

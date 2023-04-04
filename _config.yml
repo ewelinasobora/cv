@@ -22,25 +22,20 @@ linkedin_username: ewelina-sobora
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Ewelina and I'm a Ruby/Ruby on Rails Developer.
-  I have always had a passion for logic and the processes that can be extracted, utilised and applied in bringing creative thought to life. This started on my journey studying and completing BSc Math & Economics along with International Relations in my hometown in Poland. During my time at university I was introduced to coding and instantly felt an affinity with the medium as it allowed me to express and create my ideas. I made the decision to pursue my biggest ambitions in London and moved shortly after my education was complete. Committed to continuously learning and developing my skills I am continuing my journey with an ever-evolving foundation.
-
-# Projects Section
-# projects_title: Projects
-
+  Hi, my name is Ewelina and I specialize in Ruby and Ruby on Rails Development. My interest in logic and the process of bringing innovative ideas to fruition has been a lifelong passion. This journey began during my undergraduate studies, where I pursued a BSc in Mathematics and Economics, along with International Relations in my hometown in Poland. It was here that I was first introduced to the world of coding, and I was immediately drawn to its expressive and creative potential. After completing my degree, I embarked on a career as a Sales Representative in Cracow, gaining valuable insights into the business world. However, my passion for technology continued to grow and I made the bold decision to pursue my ambitions in London. Dedicated to the pursuit of continuous learning and skills development, I am committed to evolving my expertise in this field.
+# Section
+content:
+  - title: Certificates # Title for the section
+    layout: list
+    content:
+      - layout: top-middle
+        title: AWS Certified Cloud Practitioner
+        link: https://www.credly.com/badges/08a764b5-f81b-4b7e-9849-828e0498fdcc?source=linked_in_profile
 # Experience Section
 # experience_title: Experience
 
 # Education Section
 # educaton_title: Education
-
-# More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in automation and software engineering some of my other interests and hobbies are:
-   - Brewing beer
-   - Gaming #PS4
-   - Cooking
 
 # Footer
 footer_show_references: true
@@ -56,3 +51,6 @@ darkmode: true
 
 plugins:
  - jekyll-seo-tag
+
+
+exclude : ["Gemfile"]
