@@ -27,7 +27,7 @@ content:
     layout: list
     content:
     - layout: left
-      title: Lifestream ( Big Sofa Technologies previously)
+      title: Lifestream
       sub_title: BackEnd Developer
       caption: October 2021 - September 2022
       link: lifestreamhx.com
@@ -35,7 +35,7 @@ content:
         In my capacity as a BackEnd Developer, I have made significant contributions towards the development of cutting-edge technology. My primary responsibilities have included maintaining and improving microservice architecture systems, thereby ensuring that the final product is of the highest possible quality. To achieve this, I have harnessed a range of advanced technologies, including Ruby on Rails, JavaScript, Relational (MySQL, PostgreSQL), Non-Relational (MongoDB, DynamoDB), Graph Database (Neo4j)  as well as Sidekiq, Redis, Apache Kafka, Elasticsearch, other AWS services and Docker. By leveraging these tools and technologies, I have been able to deliver efficient, scalable and reliable systems that meet the needs of our clients.
 
     - layout: left
-      title: Big Sofa Technologies
+      title: Lifestream
       link: bigsofatech.com
       sub_title: Developer In Test
       caption: May 2019 - October 2021
