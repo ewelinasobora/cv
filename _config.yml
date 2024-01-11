@@ -20,7 +20,7 @@ twitter_username: exwxexl
 
 
 about_profile_image: images/profile.jpeg
-about_content: | 
+about_content: |
   Hi, my name is Ewelina and I specialize in Ruby and Ruby on Rails Development. My interest in logic and the process of bringing innovative ideas to fruition has been a lifelong passion. This journey began during my undergraduate studies, where I pursued a BSc in Mathematics and Economics, along with International Relations in my hometown in Poland. It was here that I was first introduced to the world of coding, and I was immediately drawn to its expressive and creative potential. After completing my degree, I embarked on a career as a Sales Representative in Cracow, gaining valuable insights into the business world. However, my passion for technology continued to grow and I made the bold decision to pursue my ambitions in London. Dedicated to the pursuit of continuous learning and skills development, I am committed to evolving my expertise in this field.
 content:
   - title: Experience
@@ -31,7 +31,7 @@ content:
       sub_title: BackEnd Developer
       caption: October 2021 - September 2022
       link: lifestreamhx.com
-      description: | 
+      description: |
         In my capacity as a BackEnd Developer, I have made significant contributions towards the development of cutting-edge technology. My primary responsibilities have included maintaining and improving microservice architecture systems, thereby ensuring that the final product is of the highest possible quality. To achieve this, I have harnessed a range of advanced technologies, including Ruby on Rails, JavaScript, Relational (MySQL, PostgreSQL), Non-Relational (MongoDB, DynamoDB), Graph Database (Neo4j)  as well as Sidekiq, Redis, Apache Kafka, Elasticsearch, other AWS services and Docker. By leveraging these tools and technologies, I have been able to deliver efficient, scalable and reliable systems that meet the needs of our clients.
 
     - layout: left
@@ -39,7 +39,7 @@ content:
       link: bigsofatech.com
       sub_title: Developer In Test
       caption: May 2019 - October 2021
-      description: | 
+      description: |
         As a Developer in Test, I was responsible for developing new features, fixing bugs, and building automated end-to-end tests of the core functionalities of the platform from the ground up that ensured our services met the highest standards. Throughout my tenure, I adopted a meticulous and systematic approach to all my tasks, which helped me achieve remarkable results. Upon joining Big Sofa Technologies, I took the initiative to introduce the tech and product teams to ShapeUp - an innovative product development approach invented by Basecamp creators. Additionally, I introduced a risk analysis chart, which played a crucial role in facilitating test planning. To accomplish these tasks, I leveraged a diverse technology stack, which included Ruby/Ruby on Rails, RSpec, MySQL, AWS, CircleCI, ElasticSearch, Docker, Neo4j, and NodeJS/Testcafe. Through my proficiency in these tools, I was able to build efficient and scalable systems that were essential in achieving our organizational goals.
 
     - layout: left
@@ -47,7 +47,7 @@ content:
       link: amigopartnership.com
       sub_title: BackEnd Developer
       caption: August 2017 - October 2018
-      description: | 
+      description: |
         My primary roles involved the development of a bespoke a platform enabling the integrated delivery of a suite of apps to produce an API utilised by a CMS to manage front-end applications. Working in a team to build REST and GraphQL API applications and testing with TDD RSpec for a range of companies, including Rolls Royce and O2 . Projects supported many features of OS. I specialised in Rails 5 , REST and GraphQL API , RSpec, JWT, PostgreSQL, Heroku, AWS and Docker .
 
     - layout: left
@@ -55,12 +55,15 @@ content:
       link: eu.storagemadeeasy.com
       sub_title: QA Software Engineer
       caption: July 2015 - February 2017
-      description: | 
+      description: |
         As a QA Engineer, I demonstrated expertise in testing both Web and Mobile-based Applications, with a deep understanding of all stages of the software development and testing life cycle. My daily responsibilities included testing various versions of the SME Appliance prepared for iOS, Windows, Mac, and Linux, ensuring that all features and functionalities met the highest quality standards. In addition, I was responsible for implementing and updating the Agile Test Strategy, which involved collaborating closely with the development team and other stakeholders to ensure that testing was integrated seamlessly into the software development process. Through my expertise and meticulous attention to detail, I was able to create a robust and efficient testing process that ensured the highest levels of quality and performance for our applications.
 
   - title: Certifications
     layout: list
     content:
+    - layout: top-middle
+      title: edX Front-End Web Developer, University of Birmingham
+
     - layout: top-middle
       title: AWS Certified Cloud Practitioner
       link_text: click here to verify AWS Certified Cloud Practitioner Badge
@@ -76,6 +79,11 @@ content:
     layout: list
     content:
     - layout: top-middle
+      title: University of Birmingham
+      caption: 2022 - 2023
+      sub_title: Front-End Development with React
+
+    - layout: top-middle
       title: The State School Of Higher Education In Chelm (Poland)
       caption: 2011 - 2014
       sub_title: BSc Mathematics and Economy
@@ -84,10 +92,10 @@ content:
       title: The State School Of Higher Education In Chelm (Poland)
       sub_title: Bsc International Relations - Spec.The international Dimension of administration and self-government.
       caption: 2010 - 2013
-   
+
   - title: A Little More About Me
     layout: text
-    content: | 
+    content: |
       In my leisure time, I enjoy engaging in various activities such as playing video games on the PS5, exploring new recipes and cooking a variety of cuisines, cultivating and preparing homemade kimchi, nurturing my garden, cycling, and attending concerts. These hobbies allow me to unwind and rejuvenate my mind after dedicating my time and effort to professional pursuits.
 # Footer
 footer_show_references: true
