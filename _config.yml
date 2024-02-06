@@ -111,7 +111,7 @@ content:
     content: |
       In my leisure time, I enjoy engaging in various activities such as playing video games on the PS5, exploring new recipes and cooking a variety of cuisines, cultivating and preparing homemade kimchi, nurturing my garden, cycling, attending concerts, and expressing my passion for art. I find immense joy in exploring different forms of artistic expression, whether it's through creating, appreciating various art forms, or immersing myself in cultural experiences.
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 remote_theme: sproogen/modern-resume-theme
 
