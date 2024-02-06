@@ -27,6 +27,11 @@ content:
     layout: list
     content:
     - layout: left
+      title: Freelance
+      sub_title: FullStack Developer
+      caption: February 2024 - Present
+
+    - layout: left
       title: Lifestream
       sub_title: BackEnd Developer
       caption: October 2021 - September 2022
@@ -58,6 +63,14 @@ content:
       description: |
         As a QA Engineer, I demonstrated expertise in testing both Web and Mobile-based Applications, with a deep understanding of all stages of the software development and testing life cycle. My daily responsibilities included testing various versions of the SME Appliance prepared for iOS, Windows, Mac, and Linux, ensuring that all features and functionalities met the highest quality standards. In addition, I was responsible for implementing and updating the Agile Test Strategy, which involved collaborating closely with the development team and other stakeholders to ensure that testing was integrated seamlessly into the software development process. Through my expertise and meticulous attention to detail, I was able to create a robust and efficient testing process that ensured the highest levels of quality and performance for our applications.
 
+    - layout: left
+      title: PHE Nowa France
+      link: nowaelektro.pl
+      sub_title: Sales Representative
+      caption: September 2014  - March 2015
+      description: |
+        In previous role as a sales representative, I successfully managed cash flow, prepared offers, attracted partners, built customer databases, and analyzed sales and customer needs. I excelled in direct client contact, addressing inquiries, and providing tailored solutions. Through follow-ups and collaboration, I ensured satisfaction, negotiated effectively, and identified growth opportunities.
+
   - title: Certifications
     layout: list
     content:
@@ -73,7 +86,7 @@ content:
     layout: list
     content:
     - layout: top-middle
-      description: Ruby, Ruby on Rails, Sidekiq / Redis, Elasticsearch, RSpec (TDD), TestCafe, Cypress, Cucumber (BDD), PostgreSQL, MySQL (RDBS), AWS, Docker, Ansible playbooks, Heroku, Dokku, Kibana, Grafana, Apache Kafka
+      description: Ruby, Ruby on Rails, JavaScript, React, Node.js, Sidekiq / Redis, Elasticsearch, RSpec (TDD), TestCafe, Cypress, Cucumber (BDD), PostgreSQL, MySQL (RDBS), AWS, Docker, Ansible playbooks, Heroku, Dokku, Kibana, Grafana
 
   - title: Education
     layout: list
@@ -96,7 +109,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: |
-      In my leisure time, I enjoy engaging in various activities such as playing video games on the PS5, exploring new recipes and cooking a variety of cuisines, cultivating and preparing homemade kimchi, nurturing my garden, cycling, and attending concerts. These hobbies allow me to unwind and rejuvenate my mind after dedicating my time and effort to professional pursuits.
+      In my leisure time, I enjoy engaging in various activities such as playing video games on the PS5, exploring new recipes and cooking a variety of cuisines, cultivating and preparing homemade kimchi, nurturing my garden, cycling, attending concerts, and expressing my passion for art. I find immense joy in exploring different forms of artistic expression, whether it's through creating, appreciating various art forms, or immersing myself in cultural experiences.
 # Footer
 footer_show_references: true
 
