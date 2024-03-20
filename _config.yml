@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Ewelina Sobora
 title: Software Engineer
-email: e@e-dot.uk
+email: me@ewelina.dev
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -21,7 +21,7 @@ twitter_username: exwxexl
 
 about_profile_image: images/profile.jpeg
 about_content: |
-  Hi, my name is Ewelina and I specialize in software engineering. My interest in logic and the process of bringing innovative ideas to fruition has been a lifelong passion. This journey began during my undergraduate studies, where I pursued a BSc in Mathematics and Economics, along with International Relations in my hometown in Poland. It was here that I was first introduced to the world of coding, and I was immediately drawn to its expressive and creative potential. After completing my degree, I embarked on a career as a Sales Representative in Cracow, gaining valuable insights into the business world. However, my passion for technology continued to grow and I made the bold decision to pursue my ambitions in London. Dedicated to the pursuit of continuous learning and skills development, I am committed to evolving my expertise in this field.
+  Hi, my name is Ewelina and I specialize in software engineering and testing. My interest in logic and the process of bringing innovative ideas to fruition has been a lifelong passion. This journey began during my undergraduate studies, where I pursued a BSc in Mathematics and Economics, along with International Relations in my hometown in Poland. It was here that I was first introduced to the world of coding, and I was immediately drawn to its expressive and creative potential. After completing my degree, I embarked on a career as a Sales Representative in Cracow, gaining valuable insights into the business world. However, my passion for technology continued to grow and I made the bold decision to pursue my ambitions in London. Dedicated to the pursuit of continuous learning and skills development, I am committed to evolving my expertise in this field.
 content:
   - title: Experience
     layout: list
@@ -30,12 +30,14 @@ content:
       title: Freelance
       sub_title: FullStack Developer
       caption: February 2024 - Present
+      description: |
+        As a FullStack Developer, I have been responsible for developing and maintaining a range of web applications with focus on small, local businesses. My primary responsibilities have included building and maintaining the front-end and back-end of the applications, ensuring that they are user-friendly, efficient, and scalable. To achieve this, I have harnessed a range of advanced technologies, including Ruby on Rails, Flask, React, PostgreSQL, MySQL, Linux, Docker, Dokku. By leveraging these tools and technologies, I have been able to deliver efficient, scalable, and reliable systems that meet the needs of my clients.
 
     - layout: left
       title: Lifestream
-      sub_title: BackEnd Developer
-      caption: October 2021 - September 2022
       link: lifestreamhx.com
+      sub_title: BackEnd Developer (promotion)
+      caption: October 2021 - September 2022
       description: |
         In my capacity as a BackEnd Developer, I have made significant contributions towards the development of cutting-edge technology. My primary responsibilities have included maintaining and improving microservice architecture systems, thereby ensuring that the final product is of the highest possible quality. To achieve this, I have harnessed a range of advanced technologies, including Ruby on Rails, JavaScript, Relational (MySQL, PostgreSQL), Non-Relational (MongoDB, DynamoDB), Graph Database (Neo4j)  as well as Sidekiq, Redis, Apache Kafka, Elasticsearch, other AWS services and Docker. By leveraging these tools and technologies, I have been able to deliver efficient, scalable and reliable systems that meet the needs of our clients.
 
@@ -45,7 +47,7 @@ content:
       sub_title: Developer In Test
       caption: May 2019 - October 2021
       description: |
-        As a Developer in Test, I was responsible for developing new features, fixing bugs, and building automated end-to-end tests of the core functionalities of the platform from the ground up that ensured our services met the highest standards. Throughout my tenure, I adopted a meticulous and systematic approach to all my tasks, which helped me achieve remarkable results. Upon joining Big Sofa Technologies, I took the initiative to introduce the tech and product teams to ShapeUp - an innovative product development approach invented by Basecamp creators. Additionally, I introduced a risk analysis chart, which played a crucial role in facilitating test planning. To accomplish these tasks, I leveraged a diverse technology stack, which included Ruby/Ruby on Rails, RSpec, MySQL, AWS, CircleCI, ElasticSearch, Docker, Neo4j, and NodeJS/Testcafe. Through my proficiency in these tools, I was able to build efficient and scalable systems that were essential in achieving our organizational goals.
+        As a Developer in Test, I was responsible for developing new features, fixing bugs, and building automated end-to-end tests of the core functionalities of the media analytics platform from the ground up that ensured our services met the highest standards. Throughout my tenure, I adopted a meticulous and systematic approach to all my tasks, which helped me achieve remarkable results. Upon joining Lifestream (startup), I took the initiative to introduce the tech and product teams to ShapeUp - an innovative product development approach invented by Basecamp creators. Additionally, I introduced a risk analysis chart, which played a crucial role in facilitating test planning. To accomplish these tasks, I leveraged a diverse technology stack, which included Ruby/Ruby on Rails, RSpec, MySQL, AWS, CircleCI, ElasticSearch, Docker, Neo4j, and NodeJS/Testcafe. Through my proficiency in these tools, I was able to build efficient and scalable systems that were essential in achieving our organizational goals.
 
     - layout: left
       title: Amigo Partnership
@@ -53,7 +55,7 @@ content:
       sub_title: BackEnd Developer
       caption: August 2017 - October 2018
       description: |
-        My primary roles involved the development of a bespoke a platform enabling the integrated delivery of a suite of apps to produce an API utilised by a CMS to manage front-end applications. Working in a team to build REST and GraphQL API applications and testing with TDD RSpec for a range of companies, including Rolls Royce and O2 . Projects supported many features of OS. I specialised in Rails 5 , REST and GraphQL API , RSpec, JWT, PostgreSQL, Heroku, AWS and Docker .
+        My primary roles involved the development of various applications in this digital agancy, enabling the integrated delivery of a suite of apps to produce an API utilised by a CMS to manage front-end applications. Working in a team to build REST and GraphQL API applications and testing with TDD RSpec for a range of companies, including Rolls Royce and O2 . Projects supported many features of OS. I specialised in Rails 5 , REST and GraphQL API , RSpec, JWT, PostgreSQL, Heroku, AWS and Docker .
 
     - layout: left
       title: Storage Made Easy
@@ -61,7 +63,7 @@ content:
       sub_title: QA Software Engineer
       caption: July 2015 - February 2017
       description: |
-        As a QA Engineer, I demonstrated expertise in testing both Web and Mobile-based Applications, with a deep understanding of all stages of the software development and testing life cycle. My daily responsibilities included testing various versions of the SME Appliance prepared for iOS, Windows, Mac, and Linux, ensuring that all features and functionalities met the highest quality standards. In addition, I was responsible for implementing and updating the Agile Test Strategy, which involved collaborating closely with the development team and other stakeholders to ensure that testing was integrated seamlessly into the software development process. Through my expertise and meticulous attention to detail, I was able to create a robust and efficient testing process that ensured the highest levels of quality and performance for our applications.
+        As a QA Engineer, in SME startup, I demonstrated expertise in testing both Web and Mobile-based Applications, with a deep understanding of all stages of the software development and testing life cycle. My daily responsibilities included testing various versions of the SME Appliance prepared for iOS, Windows, Mac, and Linux, ensuring that all features and functionalities met the highest quality standards. In addition, I was responsible for implementing and updating the Agile Test Strategy, which involved collaborating closely with the development team and other stakeholders to ensure that testing was integrated seamlessly into the software development process. Through my expertise and meticulous attention to detail, I was able to create a robust and efficient testing process that ensured the highest levels of quality and performance for our applications.
 
     - layout: left
       title: PHE Nowa France
@@ -76,6 +78,8 @@ content:
     content:
     - layout: top-middle
       title: edX Front-End Web Developer, University of Birmingham
+      link_text: click here to verify edX Front-End Web Developer Badge
+      link: https://skillsbootcamp.credential.getsmarter.com/74f7bd1b-93fb-4b39-8b85-58f034b1c52e#gs.64cxwh
 
     - layout: top-middle
       title: AWS Certified Cloud Practitioner
@@ -86,7 +90,7 @@ content:
     layout: list
     content:
     - layout: top-middle
-      description: Ruby, Ruby on Rails, JavaScript, React, Node.js, Sidekiq / Redis, Elasticsearch, RSpec (TDD), TestCafe, Cypress, Cucumber (BDD), PostgreSQL, MySQL (RDBS), AWS, Docker, Ansible playbooks, Heroku, Dokku, Kibana, Grafana
+      description: Ruby, Ruby on Rails, JavaScript, React, Node.js, Python, Flask, Sidekiq, Redis, Elasticsearch, RSpec, TestCafe, Cypress, Cucumber, PostgreSQL, MySQL, AWS, Docker, Ansible playbooks, Heroku, Dokku, Kibana, Grafana
 
   - title: Education
     layout: list
